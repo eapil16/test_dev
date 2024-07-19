@@ -21,4 +21,5 @@ cov-pt*
 **/test/temp
 .release.json
 package-lock.json
-.gitignore
+package.json
+gitignore

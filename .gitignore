@@ -16,7 +16,9 @@ cov-pt*
 *.pid
 *.gz
 *.pug
+*.json
 **/test/output*
 **/test/temp
 .release.json
 package-lock.json
+.gitignore
